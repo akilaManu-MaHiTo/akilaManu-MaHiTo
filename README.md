@@ -34,20 +34,6 @@
 
 ## 🛠️ Tech Stack  
 
-<style>
-  table {
-    border-collapse: separate;
-    border-spacing: 0;
-    border-radius: 10px;
-    overflow: hidden;
-    border: 2px solid #444;
-  }
-  td {
-    border: 1px solid #444;
-    padding: 10px;
-  }
-</style>
-
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="50"></td>
@@ -80,6 +66,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50"></td>
   </tr>
 </table>
+
 
 
 
