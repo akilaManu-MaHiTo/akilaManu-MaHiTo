@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akilaManu-MaHiTo&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akilaManu-MaHiTo&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@
 ## 📊 GitHub Summary  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akilaManu-MaHiTo&theme=cobalt" alt="GitHub Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akilaManu-MaHiTo&theme=tokyonight" alt="GitHub Summary">
 </p>
 
 ---
