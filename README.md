@@ -73,7 +73,7 @@
 ---
 
 ## 📊 GitHub Summary  
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; align-items: center;">
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akilaManu-MaHiTo&theme=tokyonight" alt="GitHub Summary">
   </p>
