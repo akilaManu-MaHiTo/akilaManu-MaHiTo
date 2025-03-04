@@ -79,7 +79,7 @@
   </p>
 
   <a href="https://github.com/akilaManu-MaHiTo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaManu-MaHiTo&layout=donut-vertical&theme=tokyonight" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaManu-MaHiTo&layout=donut&theme=tokyonight" alt="Top Languages">
   </a>
 </div>
 
