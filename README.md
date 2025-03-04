@@ -74,10 +74,10 @@
 
 ## 📊 GitHub Summary  
 <div style="display: flex; align-items: center; gap: 10px;">
-  <div style="display: flex;">
+  <div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akilaManu-MaHiTo&theme=tokyonight" alt="GitHub Summary">
   </div>
-  <div style="display: flex;">
+  <div>
     <a href="https://github.com/akilaManu-MaHiTo">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaManu-MaHiTo&layout=donut&theme=tokyonight" alt="Top Languages">
     </a>
