@@ -73,16 +73,15 @@
 ---
 
 ## 📊 GitHub Summary  
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akilaManu-MaHiTo&theme=tokyonight" alt="GitHub Summary">
+  </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akilaManu-MaHiTo&theme=tokyonight" alt="GitHub Summary">
-</p>
-
-<p align="center">
   <a href="https://github.com/akilaManu-MaHiTo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaManu-MaHiTo&layout=donut-vertical&theme=tokyonight" alt="Top Languages">
   </a>
-</p>
+</div>
 
 ---
 
