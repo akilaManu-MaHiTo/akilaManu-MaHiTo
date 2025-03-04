@@ -1,12 +1,5 @@
 # 🚀 Welcome to My Profile! 🚀  
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  table, td {
-    border: none;
-  }
-</style>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akilaManu-MaHiTo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </p>
