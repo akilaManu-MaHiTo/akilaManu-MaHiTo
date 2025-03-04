@@ -73,16 +73,8 @@
 ---
 
 ## 📊 GitHub Summary  
-<div style="display: flex; align-items: center; gap: 10px;">
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akilaManu-MaHiTo&theme=tokyonight" alt="GitHub Summary">
-  </div>
-  <div>
-    <a href="https://github.com/akilaManu-MaHiTo">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaManu-MaHiTo&layout=donut&theme=tokyonight" alt="Top Languages">
-    </a>
-  </div>
-</div>
+| !GitHub Summary | !Top Languages |
+|:---:|:---:|
 
 
 ---
