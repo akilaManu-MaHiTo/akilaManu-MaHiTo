@@ -78,6 +78,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akilaManu-MaHiTo&theme=tokyonight" alt="GitHub Summary">
 </p>
 
+<p align="center">
+  <a href="https://github.com/akilaManu-MaHiTo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaManu-MaHiTo&layout=compact&theme=tokyonight" alt="Top Languages">
+  </a>
+</p>
 ---
 
 ## 📫 Connect with Me  
