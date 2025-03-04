@@ -34,6 +34,19 @@
 
 ## 🛠️ Tech Stack  
 
+<style>
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 2px solid #444;
+  }
+  td {
+    border: 1px solid #444;
+    padding: 10px;
+  }
+</style>
 
 <table align="center">
   <tr>
