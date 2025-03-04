@@ -76,9 +76,6 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akilaManu-MaHiTo&theme=tokyonight" alt="GitHub Summary"></td>
-
-  </tr>
-  <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaManu-MaHiTo&layout=donut-vertical&theme=tokyonight" alt="Top Languages"></td>
   </tr>
 </table>
