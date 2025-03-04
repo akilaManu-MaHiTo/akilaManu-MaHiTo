@@ -73,7 +73,7 @@
 ---
 
 ## 📊 GitHub Summary  
-<table align="center" border="none">
+<table align="center">
   <tr>
     <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akilaManu-MaHiTo&theme=tokyonight&bg_color=ffffff00" alt="GitHub Summary"></td>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaManu-MaHiTo&layout=donut&theme=tokyonight&hide_border=true&hide=background" alt="Top Languages"></td>
